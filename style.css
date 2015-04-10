@@ -2,3 +2,26 @@ html, body {
   overflow: hidden;
   height: 100%;
 }
+
+h1 {
+  margin: 0.1em 0;
+}
+
+div {
+  margin: 5px 0;
+}
+
+.font-x-small {
+  font-size: x-small;
+}
+
+.align-c {
+  text-align: center;
+}
+
+.result-count,
+.result-tps-current,
+.result-tps-max,
+.result-tps-total {
+}
+
